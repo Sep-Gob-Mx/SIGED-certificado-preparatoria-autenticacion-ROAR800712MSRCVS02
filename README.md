@@ -1,2 +1,2 @@
-# SIGED-certificado-preparatoria-autenticacion-ROAR800712MSRCVS02
+# SIGED-certificado-secundaria-autenticacion-ROAR800712MSRCVS02
 ROAR800712MSRCVS02
